@@ -12,19 +12,19 @@
 
 :root {
     --bg-color: #dadde2;
-    --second-bg-color: rgb(208, 246, 117);
+    --second-bg-color: rgb(148, 200, 132);
     --text-color: #0f0f0f;
-    --main-color: rgb(43, 204, 72);
+    --main-color: rgb(9, 156, 36);
     --body:#5ff475;
     --cont:#eceff1;
     --line:#651FFF;
-    --txt:#21fb00;
+    --txt:#70d261;
     --light: #c5cea9;
     --3rd:#010101;
     --primary-clr: #174507;
     --white: #fff;
     --text-clr: #464646;
-    --tabs-list-bg-clr: #23eb08;
+    --tabs-list-bg-clr: #65b35a;
     --btn-hvr: #4cf78e;
 }
 
